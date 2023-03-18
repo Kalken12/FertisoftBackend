@@ -1,0 +1,54 @@
+{
+    "subServicesDropdown": {
+        "Consultation": [
+            {
+                "id": "1",
+                "dropdownName": "Dr. Chandler",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            }
+        ],
+        "Registration": [
+            {
+                "id": "2",
+                "dropdownName": "OPD card",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            }
+        ],
+        "Embriology": [
+            {
+                "id": "3",
+                "dropdownName": "IVF",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            },
+            {
+                "id": "4",
+                "dropdownName": "IUI",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            }
+        ],
+        "Andrology": [
+            {
+                "id": "5",
+                "dropdownName": "Semen Analysis",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            },
+            {
+                "id": "6",
+                "dropdownName": "Sperm Count",
+                "unitrate": 100.0,
+                "quantity": 1,
+                "amount": "100.00"
+            }
+        ]
+    }
+}
