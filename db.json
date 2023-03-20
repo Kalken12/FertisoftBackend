@@ -211,7 +211,7 @@
         
 
     },
-    "todaysPattodaysPatientient": {
+    "todaysPatient": {
         "column" : [
               {
                   "name": "Sr. No"
