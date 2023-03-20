@@ -51,75 +51,41 @@
             }
         ]
     },
-
-
-
     "EmbryologyPatient": [
         {
-          "id": 1,
-          "FormNo": "ET01",
-          "Name": "OPU-Ovum Pick Up ",
-          "UnitRate": 2000
+            "id": 1,
+            "FormNo": "ET01",
+            "Name": "OPU-Ovum Pick Up ",
+            "UnitRate": 2000
         },
         {
-          "id": 2,
-          "FormNo": "ET02",
-          "Name": "Stimulation Ovarienne",
-          "UnitRate": 5000
+            "id": 2,
+            "FormNo": "ET02",
+            "Name": "Stimulation Ovarienne",
+            "UnitRate": 5000
         },
         {
-          "id": 3,
-          "FormNo": "ET03",
-          "Name": "Embryo Thawing",
-          "UnitRate": 3000
+            "id": 3,
+            "FormNo": "ET03",
+            "Name": "Embryo Thawing",
+            "UnitRate": 3000
         },
         {
-          "id": 4,
-          "FormNo": "ET04",
-          "Name": "Embro Transfer",
-          "UnitRate": 7000
+            "id": 4,
+            "FormNo": "ET04",
+            "Name": "Embro Transfer",
+            "UnitRate": 7000
         },
         {
-          "id": 5,
-          "FormNo": "ET05",
-          "Name": "Embryo Freezing",
-          "UnitRate": 7000
+            "id": 5,
+            "FormNo": "ET05",
+            "Name": "Embryo Freezing",
+            "UnitRate": 7000
         }
-      ],
-      "AndrologyPatient": [
-        {
-          "id": 1,
-          "FormNo": "AT01",
-          "Name": "Serological tests-HIV ,HCV,VDRL,HBSAG",
-          "UnitRate": 2000
-        },
-        {
-          "id": 2,
-          "FormNo": "AT02",
-          "Name": "Hormone assays-FSH & LH Blood tests",
-          "UnitRate": 1200
-        },
-        {
-          "id": 3,
-          "FormNo": "AT03",
-          "Name": "Hormone assays-Testosterone",
-          "UnitRate": 8000
-        },
-        {
-          "id": 4,
-          "FormNo": "AT04",
-          "Name": "Semen Analysis Test",
-          "UnitRate": 1200
-        },
-        {
-          "id": 5,
-          "FormNo": "AT05",
-          "Name": "Semen culture",
-          "UnitRate": 1500
-        }
-      ],
+    ],
+    
     "followup": {
-      "column" : [
+        "column": [
             {
                 "name": "Sr. No"
             },
@@ -139,171 +105,303 @@
                 "name": "Time"
             }
         ],
-        "row" : 
-            [
-                {
-                    "values": [
-                        {
-                            "value": 1
-                        },
-                        {
-                            "value": "2703792546"
-                        },
-                        {
-                            "value": "Rina Singh and Ravi Singh"
-                        },
-                        {
-                            "value": "Dr. Joee"
-                        },
-                        {
-                            "value": "10-03-2023"
-                        },
-                        {
-                            "value": "9:00am"
-                        }
-                    ]
-                },
-                {
-                    "values": [
-                        {
-                            "value": 2
-                        },
-                        {
-                            "value": "2703792546"
-                        },
-                        {
-                            "value": "Rina Singh and Ravi Singh"
-                        },
-                        {
-                            "value": "Dr. Joee"
-                        },
-                        {
-                            "value": "10-03-2023"
-                        },
-                        {
-                            "value": "9:00am"
-                        }
-                    ]
-                },
-                {
-                    "values": [
-                        {
-                            "value": 3
-                        },
-                        {
-                            "value": "2703792546"
-                        },
-                        {
-                            "value": "Rina Singh and Ravi Singh"
-                        },
-                        {
-                            "value": "Dr. Joee"
-                        },
-                        {
-                            "value": "10-03-2023"
-                        },
-                        {
-                            "value": "9:00am"
-                        }
-                    ]
-                }
-            ]
-        
-
+        "row": [
+            {
+                "values": [
+                    {
+                        "value": 1
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 2
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 3
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            }
+        ]
     },
     "todaysPatient": {
-        "column" : [
-              {
-                  "name": "Sr. No"
-              },
-              {
-                  "name": "UHID"
-              },
-              {
-                  "name": "Patient Name"
-              },
-              {
-                  "name": "Allotted Dr."
-              },
-              {
-                  "name": "Follow Up Date"
-              },
-              {
-                  "name": "Time"
-              }
-          ],
-          "row" : 
-              [
-                  {
-                      "values": [
-                          {
-                              "value": 1
-                          },
-                          {
-                              "value": "2703792546"
-                          },
-                          {
-                              "value": "Rina Singh and Ravi Singh"
-                          },
-                          {
-                              "value": "Dr. Joee"
-                          },
-                          {
-                              "value": "10-03-2023"
-                          },
-                          {
-                              "value": "9:00am"
-                          }
-                      ]
-                  },
-                  {
-                      "values": [
-                          {
-                              "value": 2
-                          },
-                          {
-                              "value": "2703792546"
-                          },
-                          {
-                              "value": "Rina Singh and Ravi Singh"
-                          },
-                          {
-                              "value": "Dr. Joee"
-                          },
-                          {
-                              "value": "10-03-2023"
-                          },
-                          {
-                              "value": "9:00am"
-                          }
-                      ]
-                  },
-                  {
-                      "values": [
-                          {
-                              "value": 3
-                          },
-                          {
-                              "value": "2703792546"
-                          },
-                          {
-                              "value": "Rina Singh and Ravi Singh"
-                          },
-                          {
-                              "value": "Dr. Joee"
-                          },
-                          {
-                              "value": "10-03-2023"
-                          },
-                          {
-                              "value": "9:00am"
-                          }
-                      ]
-                  }
-              ]
-          
-  
-      }
-         
-       
+        "column": [
+            {
+                "name": "Sr. No"
+            },
+            {
+                "name": "UHID"
+            },
+            {
+                "name": "Patient Name"
+            },
+            {
+                "name": "Allotted Dr."
+            },
+            {
+                "name": "Follow Up Date"
+            },
+            {
+                "name": "Time"
+            }
+        ],
+        "row": [
+            {
+                "values": [
+                    {
+                        "value": 1
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 2
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 3
+                    },
+                    {
+                        "value": "2703792546"
+                    },
+                    {
+                        "value": "Rina Singh and Ravi Singh"
+                    },
+                    {
+                        "value": "Dr. Joee"
+                    },
+                    {
+                        "value": "10-03-2023"
+                    },
+                    {
+                        "value": "9:00am"
+                    }
+                ]
+            }
+        ]
+    },
+    "andrologyServicesList": {
+        "column": [
+            {
+                "name": "Sr.No."
+            },
+            {
+                "name": "Form No./Lab Code"
+            },
+            {
+                "name": "Test Name"
+            },
+            {
+                "name": "Unit Rate(Rs.)"
+            }
+        ],
+        "row": [
+            {
+                "values": [
+                    {
+                        "value": 1
+                    },
+                    {
+                        "value": "AT01"
+                    },
+                    {
+                        "value": "Serological Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 2
+                    },
+                    {
+                        "value": "AT02"
+                    },
+                    {
+                        "value": "serum Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 3
+                    },
+                    {
+                        "value": "AT03"
+                    },
+                    {
+                        "value": "serum Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            }
+           
+        ]
+    },
+    "embriologyServicesList": {
+        "column": [
+            {
+                "name": "Sr.No."
+            },
+            {
+                "name": "Form No./Lab Code"
+            },
+            {
+                "name": "Test Name"
+            },
+            {
+                "name": "Unit Rate(Rs.)"
+            }
+        ],
+        "row": [
+            {
+                "values": [
+                    {
+                        "value": 1
+                    },
+                    {
+                        "value": "AT01"
+                    },
+                    {
+                        "value": "Serological Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 2
+                    },
+                    {
+                        "value": "AT02"
+                    },
+                    {
+                        "value": "serum Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            },
+            {
+                "values": [
+                    {
+                        "value": 3
+                    },
+                    {
+                        "value": "AT03"
+                    },
+                    {
+                        "value": "serum Test-HIV,HCV"
+                    },
+                    {
+                        "value": 1000.00
+                    }
+                   
+                ]
+            }
+           
+        ]
+    }
 }
