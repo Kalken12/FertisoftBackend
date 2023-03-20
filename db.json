@@ -50,5 +50,44 @@
                 "amount": "100.00"
             }
         ]
+        "followupColumn":[
+         {
+                                        name: "Sr. No"
+                                    },
+                                    {
+                                        name: "UHID"
+                                    },
+                   {
+                                        name: "Sr. No"
+                                    },
+                                    {
+                                        name: "UHID"
+                                    },
+                                    {
+                                        name: "Patient Name"
+                                    },
+                                    {
+                                        name: "Allotted Dr."
+                                    },
+                                    {
+                                        name: "Follow Up Date"
+                                    },
+                                    {
+                                        name: "Time"
+                                    },                  {
+                                        name: "Patient Name"
+                                    },
+                                    {
+                                        name: "Allotted Dr."
+                                    },
+                                    {
+                                        name: "Follow Up Date"
+                                    },
+                                    {
+                                        name: "Time"
+                                    },
+        
+        
+        ]
     }
 }
