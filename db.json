@@ -115,7 +115,39 @@
             "UnitRate": 7000
         }
     ],
-    
+   "followupdata":[
+  {
+  	 "id":1",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+  {
+  	 "id":"2",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+  {
+  	 "id":"3",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+   "id":"4",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+   	
+   ]
     
     "followup": {
         "column": [
@@ -207,6 +239,40 @@
             }
         ]
     },
+    "todaysPatientData":[
+     {
+  	 "id":1",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+  {
+  	 "id":"2",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+  {
+  	 "id":"3",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+  },
+   "id":"4",
+   "UHID":"1234",
+   "PatientName":"Nandini",
+   "Dr":"Dr.Changler",
+   "Follow UP Date":"1/2/2022",
+   "Time":"12:30"
+   	
+    	
+    ]
     "todaysPatient": {
         "column": [
             {
