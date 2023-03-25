@@ -83,6 +83,39 @@
             "UnitRate": 7000
         }
     ],
+    "AndrologyServices": [
+        {
+            "id": 1,
+            "FormNo": "ET01",
+            "Name": "OPU-Ovum Pick Up ",
+            "UnitRate": 2000
+        },
+        {
+            "id": 2,
+            "FormNo": "ET02",
+            "Name": "Stimulation Ovarienne",
+            "UnitRate": 5000
+        },
+        {
+            "id": 3,
+            "FormNo": "ET03",
+            "Name": "Embryo Thawing",
+            "UnitRate": 3000
+        },
+        {
+            "id": 4,
+            "FormNo": "ET04",
+            "Name": "Embro Transfer",
+            "UnitRate": 7000
+        },
+        {
+            "id": 5,
+            "FormNo": "ET05",
+            "Name": "Embryo Freezing",
+            "UnitRate": 7000
+        }
+    ],
+    
     
     "followup": {
         "column": [
