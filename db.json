@@ -147,7 +147,7 @@
    "Dr":"Dr.Changler",
    "Follow UP Date":"1/2/2022",
    "Time":"12:30"
-   	
+       }
    ],
     
     "followup": {
@@ -272,7 +272,7 @@
    "Dr":"Dr.Changler",
    "Follow UP Date":"1/2/2022",
    "Time":"12:30"
-   	
+        }
     	
     ]
     "todaysPatient": {
