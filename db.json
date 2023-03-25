@@ -117,7 +117,7 @@
     ],
    "followupdata":[
   {
-  	 "id":1",
+  	 "id":1,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
@@ -125,7 +125,7 @@
    "Time":"12:30"
   },
   {
-  	 "id":"2",
+  	 "id":2,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
@@ -133,14 +133,14 @@
    "Time":"12:30"
   },
   {
-  	 "id":"3",
+  	 "id":3,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
    "Follow UP Date":"1/2/2022",
    "Time":"12:30"
   },
-   "id":"4",
+   "id":4,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
@@ -241,7 +241,7 @@
     },
     "todaysPatientData":[
      {
-  	 "id":1",
+  	 "id":1,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
@@ -249,7 +249,7 @@
    "Time":"12:30"
   },
   {
-  	 "id":"2",
+  	 "id":2,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
@@ -257,14 +257,14 @@
    "Time":"12:30"
   },
   {
-  	 "id":"3",
+  	 "id":3,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
    "Follow UP Date":"1/2/2022",
    "Time":"12:30"
   },
-   "id":"4",
+   "id":4,
    "UHID":"1234",
    "PatientName":"Nandini",
    "Dr":"Dr.Changler",
